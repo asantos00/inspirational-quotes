@@ -3,6 +3,12 @@ import css from './style.css';
 window.onload = () => {
   getLearningFromGist()
     .then(addToScreen)
+
+  document.querySelector('body').onclick = () => {
+     getFromLocalStorage()
+       .then(getContentFromGist)
+       .then(addToScreen);
+  }
 }
 
 const getLearningFromGist = () => {
@@ -19,7 +25,11 @@ const getLearningFromGist = () => {
     .then((res) => res.json())
     .catch(() => getFromLocalStorage())
     .then((res) => saveToLocalStorage(res))
-    .then((res) => res.files['inspirational-quotes'].content.split('\n'))
+    .then(getContentFromGist)
+}
+
+const getContentFromGist = (res) => {
+  return res.files['inspirational-quotes'].content.split('\n');
 }
 
 const addToScreen = (sentence) => {
@@ -48,5 +58,5 @@ const saveToLocalStorage = (response) => {
 }
 
 const getFromLocalStorage = () => {
-  return JSON.parse(localStorage.getItem('inspirational-quotes'));
+  return Promise.resolve(JSON.parse(localStorage.getItem('inspirational-quotes')));
 }

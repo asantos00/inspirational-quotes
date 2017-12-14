@@ -20,6 +20,10 @@ body {
   text-transform: uppercase;
 }
 
+body {
+  cursor: pointer;
+}
+
 #quote {
   text-align: center;
 }
