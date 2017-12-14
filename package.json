@@ -1,0 +1,25 @@
+{
+  "name": "@asantos/inspirational-quotes",
+  "version": "0.0.1",
+  "description": "a random inspirational quote getter from my gist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asantos00/inspirational-quotes.git"
+  },
+  "keywords": [
+    "quotes",
+    "random",
+    "git",
+    "inspirational"
+  ],
+  "author": "asantos00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asantos00/inspirational-quotes/issues"
+  },
+  "homepage": "https://github.com/asantos00/inspirational-quotes#readme"
+}

@@ -1,0 +1,255 @@
+{
+  "url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740",
+  "forks_url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/forks",
+  "commits_url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/commits",
+  "id": "588078f617274649b46571d4b0c65740",
+  "git_pull_url": "https://gist.github.com/588078f617274649b46571d4b0c65740.git",
+  "git_push_url": "https://gist.github.com/588078f617274649b46571d4b0c65740.git",
+  "html_url": "https://gist.github.com/588078f617274649b46571d4b0c65740",
+  "files": {
+    "inspirational-quotes": {
+      "filename": "inspirational-quotes",
+      "type": "text/plain",
+      "language": null,
+      "raw_url": "https://gist.githubusercontent.com/asantos00/588078f617274649b46571d4b0c65740/raw/d4295a57ed7b9267781a1abc32c7f9ab46e04a5d/inspirational-quotes",
+      "size": 171,
+      "truncated": false,
+      "content": "Work for success, not to avoid failure | unknown | work context\nIf you can't do it, divide it in smaller parts | unknown | life\nToday, do something new | unknown | advice\n"
+    }
+  },
+  "public": false,
+  "created_at": "2017-12-14T00:01:36Z",
+  "updated_at": "2017-12-14T00:40:05Z",
+  "description": "used in alexandrempsantos.com/learnings",
+  "comments": 0,
+  "user": null,
+  "comments_url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/comments",
+  "owner": {
+    "login": "asantos00",
+    "id": 2593480,
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2593480?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/asantos00",
+    "html_url": "https://github.com/asantos00",
+    "followers_url": "https://api.github.com/users/asantos00/followers",
+    "following_url": "https://api.github.com/users/asantos00/following{/other_user}",
+    "gists_url": "https://api.github.com/users/asantos00/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/asantos00/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/asantos00/subscriptions",
+    "organizations_url": "https://api.github.com/users/asantos00/orgs",
+    "repos_url": "https://api.github.com/users/asantos00/repos",
+    "events_url": "https://api.github.com/users/asantos00/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/asantos00/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "forks": [
+
+  ],
+  "history": [
+    {
+      "user": {
+        "login": "asantos00",
+        "id": 2593480,
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2593480?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/asantos00",
+        "html_url": "https://github.com/asantos00",
+        "followers_url": "https://api.github.com/users/asantos00/followers",
+        "following_url": "https://api.github.com/users/asantos00/following{/other_user}",
+        "gists_url": "https://api.github.com/users/asantos00/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/asantos00/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/asantos00/subscriptions",
+        "organizations_url": "https://api.github.com/users/asantos00/orgs",
+        "repos_url": "https://api.github.com/users/asantos00/repos",
+        "events_url": "https://api.github.com/users/asantos00/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/asantos00/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "version": "aeb7ca1c750bc1aac542d17859db3063b2918e92",
+      "committed_at": "2017-12-14T00:40:04Z",
+      "change_status": {
+        "total": 1,
+        "additions": 1,
+        "deletions": 0
+      },
+      "url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/aeb7ca1c750bc1aac542d17859db3063b2918e92"
+    },
+    {
+      "user": {
+        "login": "asantos00",
+        "id": 2593480,
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2593480?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/asantos00",
+        "html_url": "https://github.com/asantos00",
+        "followers_url": "https://api.github.com/users/asantos00/followers",
+        "following_url": "https://api.github.com/users/asantos00/following{/other_user}",
+        "gists_url": "https://api.github.com/users/asantos00/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/asantos00/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/asantos00/subscriptions",
+        "organizations_url": "https://api.github.com/users/asantos00/orgs",
+        "repos_url": "https://api.github.com/users/asantos00/repos",
+        "events_url": "https://api.github.com/users/asantos00/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/asantos00/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "version": "223bc35b2a48446771bfdd984b0a03a53c1bfced",
+      "committed_at": "2017-12-14T00:37:16Z",
+      "change_status": {
+        "total": 0,
+        "additions": 0,
+        "deletions": 0
+      },
+      "url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/223bc35b2a48446771bfdd984b0a03a53c1bfced"
+    },
+    {
+      "user": {
+        "login": "asantos00",
+        "id": 2593480,
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2593480?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/asantos00",
+        "html_url": "https://github.com/asantos00",
+        "followers_url": "https://api.github.com/users/asantos00/followers",
+        "following_url": "https://api.github.com/users/asantos00/following{/other_user}",
+        "gists_url": "https://api.github.com/users/asantos00/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/asantos00/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/asantos00/subscriptions",
+        "organizations_url": "https://api.github.com/users/asantos00/orgs",
+        "repos_url": "https://api.github.com/users/asantos00/repos",
+        "events_url": "https://api.github.com/users/asantos00/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/asantos00/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "version": "ba32a599266bfc6efdbd276ac42af5ada098b9b1",
+      "committed_at": "2017-12-14T00:37:14Z",
+      "change_status": {
+        "total": 1,
+        "additions": 1,
+        "deletions": 0
+      },
+      "url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/ba32a599266bfc6efdbd276ac42af5ada098b9b1"
+    },
+    {
+      "user": {
+        "login": "asantos00",
+        "id": 2593480,
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2593480?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/asantos00",
+        "html_url": "https://github.com/asantos00",
+        "followers_url": "https://api.github.com/users/asantos00/followers",
+        "following_url": "https://api.github.com/users/asantos00/following{/other_user}",
+        "gists_url": "https://api.github.com/users/asantos00/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/asantos00/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/asantos00/subscriptions",
+        "organizations_url": "https://api.github.com/users/asantos00/orgs",
+        "repos_url": "https://api.github.com/users/asantos00/repos",
+        "events_url": "https://api.github.com/users/asantos00/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/asantos00/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "version": "dc47a01cd4af0bcbde4d2423f18c52ed548ed673",
+      "committed_at": "2017-12-14T00:36:20Z",
+      "change_status": {
+        "total": 2,
+        "additions": 1,
+        "deletions": 1
+      },
+      "url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/dc47a01cd4af0bcbde4d2423f18c52ed548ed673"
+    },
+    {
+      "user": {
+        "login": "asantos00",
+        "id": 2593480,
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2593480?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/asantos00",
+        "html_url": "https://github.com/asantos00",
+        "followers_url": "https://api.github.com/users/asantos00/followers",
+        "following_url": "https://api.github.com/users/asantos00/following{/other_user}",
+        "gists_url": "https://api.github.com/users/asantos00/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/asantos00/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/asantos00/subscriptions",
+        "organizations_url": "https://api.github.com/users/asantos00/orgs",
+        "repos_url": "https://api.github.com/users/asantos00/repos",
+        "events_url": "https://api.github.com/users/asantos00/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/asantos00/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "version": "b4d691b12e1be56cbba1502c327649654d7f7fd5",
+      "committed_at": "2017-12-14T00:26:47Z",
+      "change_status": {
+        "total": 3,
+        "additions": 1,
+        "deletions": 2
+      },
+      "url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/b4d691b12e1be56cbba1502c327649654d7f7fd5"
+    },
+    {
+      "user": {
+        "login": "asantos00",
+        "id": 2593480,
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2593480?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/asantos00",
+        "html_url": "https://github.com/asantos00",
+        "followers_url": "https://api.github.com/users/asantos00/followers",
+        "following_url": "https://api.github.com/users/asantos00/following{/other_user}",
+        "gists_url": "https://api.github.com/users/asantos00/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/asantos00/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/asantos00/subscriptions",
+        "organizations_url": "https://api.github.com/users/asantos00/orgs",
+        "repos_url": "https://api.github.com/users/asantos00/repos",
+        "events_url": "https://api.github.com/users/asantos00/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/asantos00/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "version": "17102be3a3f1939300158f3467adae049cd6861f",
+      "committed_at": "2017-12-14T00:19:56Z",
+      "change_status": {
+        "total": 3,
+        "additions": 2,
+        "deletions": 1
+      },
+      "url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/17102be3a3f1939300158f3467adae049cd6861f"
+    },
+    {
+      "user": {
+        "login": "asantos00",
+        "id": 2593480,
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2593480?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/asantos00",
+        "html_url": "https://github.com/asantos00",
+        "followers_url": "https://api.github.com/users/asantos00/followers",
+        "following_url": "https://api.github.com/users/asantos00/following{/other_user}",
+        "gists_url": "https://api.github.com/users/asantos00/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/asantos00/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/asantos00/subscriptions",
+        "organizations_url": "https://api.github.com/users/asantos00/orgs",
+        "repos_url": "https://api.github.com/users/asantos00/repos",
+        "events_url": "https://api.github.com/users/asantos00/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/asantos00/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "version": "da4f90c4e74d2403ffeb57f9a30678ce863d12fa",
+      "committed_at": "2017-12-14T00:01:35Z",
+      "change_status": {
+        "total": 1,
+        "additions": 1,
+        "deletions": 0
+      },
+      "url": "https://api.github.com/gists/588078f617274649b46571d4b0c65740/da4f90c4e74d2403ffeb57f9a30678ce863d12fa"
+    }
+  ],
+  "truncated": false
+}
